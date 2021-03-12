@@ -1,18 +1,18 @@
 {
   "name": "@snackswap/lib",
   "version": "2.0.8",
-  "description": "📖 Solidity libraries that are shared across Uniswap contracts",
+  "description": "📖 Solidity libraries that are shared across Snackswap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://uniswap.org",
+  "homepage": "https://snackswap.finance",
   "repository": {
-    "url": "https://github.com/Uniswap/uniswap-lib",
+    "url": "https://github.com/Snackswap/snackswap-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Uniswap/uniswap-lib/issues"
+    "url": "https://github.com/Snackswap/snackswap-lib/issues"
   },
   "engines": {
     "node": ">=10"
